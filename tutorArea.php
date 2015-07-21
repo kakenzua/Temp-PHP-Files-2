@@ -25,7 +25,6 @@
 			<p>Email Address: <code><?=$_SESSION['EmailAddress']?></code>.</p>
 			<p>School: <code><?=$_SESSION['School']?></code></p>
 			<p>Average Rate: <code><?=$_SESSION['AvgRate']?></code>.</p>
-			<p>test</p>
 			<p><a href = "logout.php">Logout</a></p>
 			
 			<?php
